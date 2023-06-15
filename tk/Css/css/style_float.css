@@ -1,0 +1,39 @@
+/* header{
+    width: 100px;
+    background-color: yellow;
+}
+section{
+    width: 60%;
+    float: left;
+    height: 300px;
+    background-color: aquamarine;
+
+}
+aside{
+    width: 40%;
+    float: right;
+    height: 300px;
+    background-color: rgb(168, 155, 139);
+    
+
+}
+.clear::after
+{
+    content: "";
+    clear: both;
+    display: table;
+}
+footer{
+    height: 60px;
+    background-color: blue;
+
+} */
+div{
+    border: solid red;
+    overflow: auto;
+
+}
+
+img{
+    float: right;
+}

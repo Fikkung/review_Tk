@@ -1,0 +1,17 @@
+div{
+    background-color: aqua;
+    display: inline;
+
+}
+.nono{
+    visibility: hidden;
+    /* ทิ้งขนาด */
+}
+.vava{
+    display: none;
+    
+}
+span{
+    background-color: blue;
+    display: block;
+} 
